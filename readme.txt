@@ -4,3 +4,4 @@
 
 脚本说明：
 （1）make_json.py：将txt转换为labelme格式的json文件，txt每一行：xxx.jpg 所有目标框(lt_x, lt_y, rb_x, rb_y)；
+（2）visual_json.py：可视化json文件，画上目标框；
